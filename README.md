@@ -41,9 +41,11 @@ Welcome to my GitHub! I'm currently diving deep into React and aiming to become 
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msinha569&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msinha569&layout=compact&theme=radical)  
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msinha569&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msinha569&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msinha569&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msinha569&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msinha569&theme=github)
 ---
 
 ## 💼 Projects  
