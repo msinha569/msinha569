@@ -92,9 +92,9 @@ Welcome to my GitHub! I'm currently diving deep into React and aiming to become 
 
 ## 📫 How to Reach Me  
 
-- **Twitter:** [@Manish_kr_sin](https://twitter.com/Manish_kr_sin)  
-- **Email:** [msinha569@gmail.com](mailto:msinha569@gmail.com)
-- **LinkedIn:** [@msinha569](https://www.linkedin.com/in/msinha569/)
+-**Twitter:** <a href="https://twitter.com/Manish_kr_sin" target="_blank">@Manish_kr_sin</a>
+-**Email:** <a href="mailto:msinha569@gmail.com" target="_blank">msinha@gmail.com</a>
+- **LinkedIn:**  <a href="https://www.linkedin.com/in/msinha569/" target="_blank">@Manish_kr_sin</a>
 
 ---
 
