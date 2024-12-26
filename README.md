@@ -1,4 +1,5 @@
-Hi there! 👋 I'm Manish Kumar Sinha
+Hi there! 👋 
+I'm Manish Kumar Sinha
 
 🌐 Aspiring Full-Stack Developer | React Enthusiast | Problem Solver
 
@@ -10,7 +11,11 @@ Backend: Node.js, Express.js
 Database: MongoDB
 Design: Figma
 Languages: JavaScript
-📈 GitHub Stats
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=msinha569&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msinha569&layout=compact&theme=radical)
 
 💼 Projects
 🍔 Foodie
