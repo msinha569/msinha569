@@ -11,13 +11,14 @@ Welcome to my GitHub! I'm currently diving deep into React and aiming to become 
 ## 🚀 Skills & Technologies  
 
 ### **Frontend**  
-- React.js  
-- Next.js  
-- Tailwind CSS  
-- Context API  
-- Redux Toolkit  
-- Zustand  
-- Aceternity UI  
+[![React.js](https://img.shields.io/badge/React.js-20232a?style=for-the-badge&logo=react&logoColor=61dafb)](https://github.com/facebook/react)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/vercel/next.js)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38b2ac?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/tailwindlabs/tailwindcss)
+[![Context API](https://img.shields.io/badge/Context%20API-61dafb?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/learn/passing-data-deeply-with-context)
+[![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764abc?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/reduxjs/redux-toolkit)
+[![Zustand](https://img.shields.io/badge/Zustand-e0e3e4?style=for-the-badge&logo=elephant&logoColor=black)](https://github.com/pmndrs/zustand)
+[![Aceternity UI](https://img.shields.io/badge/Aceternity%20UI-20232a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aceternity-ui)
+
 
 ### **Backend**  
 - Node.js  
