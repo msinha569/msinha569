@@ -19,24 +19,25 @@ Welcome to my GitHub! I'm currently diving deep into React and aiming to become 
 [![Zustand](https://img.shields.io/badge/Zustand-e0e3e4?style=for-the-badge&logo=elephant&logoColor=black)](https://github.com/pmndrs/zustand)
 [![Aceternity UI](https://img.shields.io/badge/Aceternity%20UI-20232a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aceternity-ui)
 
-
 ### **Backend**  
-- Node.js  
-- Express.js  
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/nodejs/node)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/expressjs/express) 
 
 ### **Database**  
-- MongoDB  
-- Firestore  
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/mongodb/mongo)
+[![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://github.com/firebase/firebase-js-sdk)
 
 ### **Other Skills**  
-- RESTful APIs  
-- WebSocket  
+[![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge&logo=api&logoColor=white)](https://github.com/microsoft/api-guidelines)
+[![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white)](https://github.com/websockets/ws)
 
 ### **Design**  
-- Figma  
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/figma) 
 
 ### **Languages**  
-- JavaScript  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/tc39)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/openjdk)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com/python/cpython)
 
 ---
 
@@ -85,12 +86,15 @@ Welcome to my GitHub! I'm currently diving deep into React and aiming to become 
 ---
 
 ## 🌱 Currently Learning  
-- Advanced React Patterns  
-- Backend Development with Node.js  
-- Database Optimization Techniques  
-- Docker
-- AWS
-- Figma
+[![Advanced React Patterns](https://img.shields.io/badge/Advanced%20React%20Patterns-20232a?style=for-the-badge&logo=react&logoColor=61dafb)](https://github.com/reactjs/reactjs.org/issues)
+[![Backend Development with Node.js](https://img.shields.io/badge/Node.js%20Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/nodejs/node)
+[![Database Optimization Techniques](https://img.shields.io/badge/Database%20Optimization-4db33d?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/topics/database-optimization)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/docker/docker-ce)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/aws)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/figma)
+[![LangChain](https://img.shields.io/badge/LangChain-9B59B6?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/hwchase17/langchain)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://github.com/mrdoob/three.js)
+
 ---
 
 ## 📫 How to Reach Me  
