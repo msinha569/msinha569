@@ -4,7 +4,7 @@ I'm **Manish Kumar Sinha**
 🌐 **Aspiring Full-Stack Developer | React Enthusiast | Problem Solver**
 
 Welcome to my GitHub! I'm currently diving deep into React and aiming to become a proficient full-stack developer. As a 3rd-year B.Tech CSE student, I'm passionate about building innovative and user-friendly web applications. Here's a glimpse of my work:
-## **Resume** (https://drive.google.com/file/d/11f8fcLp0pitIHMXrdmTLoUt8Gb1dBI1Z/view?usp=drive_link)
+## **Resume** (https://drive.google.com/file/d/1HqGqClWsKto8EmrGD3RF9W-HQh_LpgLI/view?usp=drive_link)
 
 ---
 
